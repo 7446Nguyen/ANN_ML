@@ -5,7 +5,7 @@ This repository contains the final project for **DS 7333: Quantifying the World*
 
 ## Contents
 ### 1. **Project Report**
-- 📄 **QTW Final.docx** – The final report detailing the dataset, preprocessing steps, model selection, architecture, training, evaluation, and results.
+- 📄 **Optimizing Classification for Cost-Sensitive Decision Making A Deep Learning Approach.pdf** – The final report detailing the dataset, preprocessing steps, model selection, architecture, training, evaluation, and results.
 - The report outlines the financial impact of misclassification and how various ANN models were tuned to optimize precision and recall.
 
 ### 2. **Code Implementation**
