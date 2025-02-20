@@ -50,7 +50,7 @@ This repository contains the final project for **DS 7333: Quantifying the World*
 - **David Julovich**
 
 ## Acknowledgments
-This project was completed as part of **DS 7333: Quantifying the World** at [Your Institution]. Special thanks to our instructors and peers for valuable feedback.
+This project was completed as part of **DS 7333: Quantifying the World** at Southern Methodist University's MSDS Program. Special thanks to our instructors and peers for valuable feedback.
 
 ---
 
