@@ -13,7 +13,7 @@ This repository contains the final project for **DS 7333: Quantifying the World*
 - Key components:
   - ** Exploratory Data Analysis
     -📊 View the full EDA report here:  
-    👉 [EDA Report](https://7446Nguyen.github.io/QTW_ML_ANN/docs/Exploratory Data Analysis.html)
+    👉 [EDA Report](https://7446Nguyen.github.io/QTW_ML_ANN/docs/ExploratoryDataAnalysis.html)
   - **Data Preparation**:
     - Handling missing values, categorical encoding, feature transformations.
     - Different approaches to dataset modification (raw, imputed, and engineered features).
