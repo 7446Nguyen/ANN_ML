@@ -1,11 +1,5 @@
 # Optimizing Classification for Cost-Sensitive Decision Making: A Deep Learning Approach
 
-Here’s a draft for your **README.md** file that describes your repository and its contents effectively:
-
----
-
-# QTW_ML_ANN
-
 ## Overview
 This repository contains the final project for **DS 7333: Quantifying the World**, focusing on **cost-sensitive classification using Artificial Neural Networks (ANNs)**. The project aims to build a high-precision machine learning model that minimizes financial losses due to misclassification. The business requirement emphasizes that false positives are significantly more costly than false negatives, guiding the model selection, training, and evaluation.
 
