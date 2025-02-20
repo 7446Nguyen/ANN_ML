@@ -30,6 +30,11 @@ This repository contains the final project for **DS 7333: Quantifying the World*
 - 📊 **R** (tidyverse, caret, ggcorrplot)
 - 💻 **Machine Learning & Deep Learning**
   - Logistic Regression
+  - Random FOrest
+  - AdaBoost
+  - Naive Bayes
+  - KNN
+  - SVM
   - Artificial Neural Networks (ANNs) with dropout layers
 
 ## Usage
