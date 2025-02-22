@@ -43,8 +43,8 @@ This repository contains the final project for **DS 7333: Quantifying the World*
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/7446Nguyen/QTW_ML_ANN.git
-   cd QTW_ML_ANN
+   git clone https://github.com/7446Nguyen/ANN_ML.git
+   cd ANN_ML
    ```
 2. Install dependencies:
    ```bash
