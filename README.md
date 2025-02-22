@@ -12,7 +12,7 @@ This repository contains the final project for **DS 7333: Quantifying the World*
 - 📁 **Notebooks and Scripts** – Python and R scripts for data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
 - Key components:
   - Exploratory Data Analysis
-    -📊 View the full EDA report here:  
+    -📊 View the full interactive EDA report here:  
     👉 [EDA Report](https://7446nguyen.github.io/QTW_ML_ANN/ExploratoryDataAnalysis.html)
   - **Data Preparation**:
     - Handling missing values, categorical encoding, feature transformations.
